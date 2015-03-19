@@ -1,3 +1,1 @@
-Owned by:
-Arjun Singhvi
-Prashasthi Prabhakar
+This repository contains the application code developed as a part of our Final Year B.E Project. 
