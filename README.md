@@ -1,1 +1,1 @@
-This repository contains the application code developed as a part of our Final Year B.E Project. 
+This code was developed while benchmarking the performance of Hidden Markov Models on Intel Edison platform vs MAC.
